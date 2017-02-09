@@ -1,3 +1,4 @@
 # hello-world
-First attempt in creating repository
-Experienced data analyst exploring the world of programming.
+This is my first attempt in creating a repository.
+
+I am an experienced data analyst exploring the world of programming.
